@@ -1,0 +1,20 @@
+PODS:
+  - ProgressHUD (2.60)
+  - SwiftyPlistManager (1.0.2)
+
+DEPENDENCIES:
+  - ProgressHUD
+  - SwiftyPlistManager
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - ProgressHUD
+    - SwiftyPlistManager
+
+SPEC CHECKSUMS:
+  ProgressHUD: 4e4efbaf4f5de8bd32e0c4c3b6644a90ea1a8c3e
+  SwiftyPlistManager: 5895924cccb7fe28deccbe14890e8aed78ae78ae
+
+PODFILE CHECKSUM: d30212cebcf460651ea66a87e975b4a3e518a329
+
+COCOAPODS: 1.5.0
